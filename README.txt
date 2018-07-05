@@ -1,4 +1,4 @@
-CONSOLE CHESS V0.9(alpha):
+CONSOLE CHESS V0.1(alpha):
 A terminal (or cmd) based chess game.
 Currently implemented for 1 player as white side.
 Authored by Andrew Parkhurst in 2018.
