@@ -64,7 +64,7 @@ int main()
             move=inputParser(input);
             x1=move/10;
             y1=move%10;
-            cout<<"_"<<x1<<"_"<<y1<<"_"<<input<<endl;
+            cout<<endl<<"_"<<x1<<"_"<<y1<<"_"<<input<<endl;
             if(move==99)
             {
                 cout<<"\n \n"<<"Thanks for Playing"<<"\n \n";
@@ -98,7 +98,7 @@ int main()
             move=inputParser(input);
             x2=move/10;
             y2=move%10;
-            cout<<"_"<<x2<<"_"<<y2<<"_"<<input<<endl;
+            cout<<endl<<"_"<<x2<<"_"<<y2<<"_"<<input<<endl;
             if(move==99)
             {
                 cout<<"\n \n"<<"Thanks for Playing"<<"\n \n";

@@ -6,6 +6,10 @@ Compiled with gcc v5.4
 
 THIS PROGRAM IS STILL UNDER DEVELOPMENT AND CONTAINS BUGS.
 
+KNOWN BUGS:
+	input parser broken
+	
+
 HOW TO PLAY:
 	This program is capable of playing single player checkers(coming soon) or chess.
 	To play, enter the coordinates of the piece you would like to move,
