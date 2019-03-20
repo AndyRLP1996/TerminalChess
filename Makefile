@@ -14,5 +14,4 @@ Chesspieces.o: Chesspieces.cpp Tile.h Chesspieces.h
 	g++ -c Chesspieces.cpp
 
 clean:
-	rm -f Chess *.o
-	rm -f Chess.exe *.o
+	rm -f Chess *.o Chess.exe
